@@ -1,0 +1,18 @@
+/Users/HP/mongodb/bin/mongod.exe --dbpath=/Users/HP/mongodb-data
+ to start the server mongodb
+
+
+ //npm run start
+ //npm run dev
+
+
+git init
+git status
+
+git add .
+git add src/
+
+
+
+
+ 
